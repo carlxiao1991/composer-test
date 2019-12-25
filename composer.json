@@ -1,5 +1,5 @@
 {
-  "name": "carl/try-make-package",
+  "name": "carl991/try-make-package",
   "description": "try make a package",
   "type": "library",
   "license": "MIT",
@@ -15,8 +15,8 @@
   },
   "autoload": {
     "psr-4": {
-      "carl\\Flower\\Rose\\": "src/Flower/Rose",
-      "carl\\Flower\\Lily\\": "src/Flower/Lily"
+      "carl991\\Flower\\Rose\\": "src/Flower/Rose",
+      "carl991\\Flower\\Lily\\": "src/Flower/Lily"
     }
   }
 }
