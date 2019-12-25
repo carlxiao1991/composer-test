@@ -1,6 +1,6 @@
 <?php
 
-namespace Flower\Rose;
+namespace carl\Flower\Rose;
 
 /**
  * Description of Rose
